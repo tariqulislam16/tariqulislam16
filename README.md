@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Tariqul Islam (@tariqulislam16)
+- 👀 I’m interested in Web Application Development
+- 🌱 I’m currently learning Data Structures and Algorithm
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me tariqul16@gmail.com, +8801673445159
+
+<!---
+tariqulislam16/tariqulislam16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
