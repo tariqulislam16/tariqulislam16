@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tariqul Islam (@tariqulislam16)
-- 👀 I’m interested in Web Application Development
+- 👀 I’m interested in Web Application Development, Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tariqul16@gmail.com, +8801673445159
